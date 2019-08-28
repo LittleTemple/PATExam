@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="peopleFlow" targetName="peopleFlow" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30551f40-e8c8-4342-adbd-b0b0f39f1c6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../6/taskA.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/newker.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/p100.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/p112.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/p207.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/q1023.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/q494.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1068.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1110.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1128.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1148.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1149.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operationSystem/PCB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operationSystem/PCB.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/synopsis.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pleasure/enjoy1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket/src/Model/wordInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket/src/dao/CorpImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket/src/dao/wordsInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第7章/exe1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/TaskB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/exe1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/exe2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/exe3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/q1095.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/taskA.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/taskD.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/taskE.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/taskF.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LittleMonk.github.io" beforeDir="false" afterPath="$PROJECT_DIR$/../LittleMonk.github.io" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1204599052">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="3" />
+          <entry key="h" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="150" />
+          <entry key="h" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Doxygen file" value="3" />
+          <entry key="ObjectiveC" value="162" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="189" column="5" lean-forward="true" selection-start-line="189" selection-start-column="5" selection-end-line="189" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/synopsis.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+              <folding>
+                <element signature="e#116#153#0" expanded="true" />
+                <element signature="e#178#218#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cvReleaseImage</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/synopsis.h" />
+        <option value="$PROJECT_DIR$/my.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="275" />
+    <option name="y" value="89" />
+    <option name="width" value="1440" />
+    <option name="height" value="713" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="peopleFlow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="peopleFlow" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.peopleFlow">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="peopleFlow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="peopleFlow" TARGET_NAME="peopleFlow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="peopleFlow" RUN_TARGET_NAME="peopleFlow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.peopleFlow" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30551f40-e8c8-4342-adbd-b0b0f39f1c6c" name="Default Changelist" comment="" />
+      <created>1556018635661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556018635661</updated>
+      <workItem from="1556018638837" duration="1823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1823000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="275" y="89" width="1440" height="713" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/test01/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/synopsis.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding>
+            <element signature="e#116#153#0" expanded="true" />
+            <element signature="e#178#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="189" column="5" lean-forward="true" selection-start-line="189" selection-start-column="5" selection-end-line="189" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

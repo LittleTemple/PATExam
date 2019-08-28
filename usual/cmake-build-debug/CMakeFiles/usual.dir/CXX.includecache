@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amos/Documents/GitHub/usual/云淮杯/PJ.cpp
+iostream
+-
+map
+-
+cmath
+-
+algorithm
+-
+

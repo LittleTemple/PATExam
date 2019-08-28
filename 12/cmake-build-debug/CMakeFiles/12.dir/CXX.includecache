@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amos/Documents/GitHub/12/1.cpp
+
+/Users/amos/Documents/GitHub/12/2.cpp
+iostream
+-
+vector
+-
+

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(PATExam)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(PATExam p1144.cpp p1148.cpp p1149.cpp p1068.cpp p1128.cpp p1110.cpp p1002.cpp p1003.cpp "p1003(2).cpp" p1030.cpp p1004.cpp p1006.cpp p1008.cpp p1020.cpp p1053.cpp p1043.cpp "p1043(2).cpp" p1023.cpp p1099.cpp p1086.cpp p1054.cpp p1143.cpp p1138.cpp p1127.cpp p1123.cpp p1119.cpp 其他/UnionFindSet.cpp p1147.cpp p1115.cpp p1102.cpp p1135.cpp p1155.cpp  p1034.cpp  p1076.cpp p1103.cpp p1021.cpp p1033.cpp 其他/BF.cpp p1037.cpp p1038.cpp p1067.cpp p1018.cpp p1072.cpp p1087.cpp p1035.cpp p1061.cpp p1073.cpp p1077.cpp p1082.cpp p1107.cpp p1014.cpp p1118.cpp p1114.cpp p1012.cpp p1025.cpp p1028.cpp p1055.cpp p1062.cpp p1075.cpp p1083.cpp p1080.cpp p1032.cpp p1052.cpp p1074.cpp p1097.cpp p1100.cpp p1071.cpp p1063.cpp p1022.cpp p1084.cpp p1039.cpp p1047.cpp p1016.cpp p1070.cpp p1024.cpp p1051.cpp p1069.cpp p1104.cpp p1081.cpp p1088.cpp p1015.cpp p1078.cpp p1096.cpp p1096.cpp p1059.cpp p1042.cpp p1046.cpp p1065.cpp)

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amos/Documents/GitHub/Leetcode/newker.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+cmath
+-
+algorithm
+-
+

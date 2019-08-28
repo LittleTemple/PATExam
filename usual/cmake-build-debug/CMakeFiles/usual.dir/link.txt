@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/usual.dir/云淮杯/PJ.cpp.o CMakeFiles/usual.dir/云淮杯/PH.cpp.o CMakeFiles/usual.dir/云淮杯/ProblemC.cpp.o CMakeFiles/usual.dir/云淮杯/ProblemG.cpp.o  -o usual 

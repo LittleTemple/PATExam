@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Leetcode" targetName="Leetcode" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a6726e9-5668-4228-9b0b-75a4d2d5b526" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1/b001.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/b1016.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/b1026.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12/2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13/2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6/taskA.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1048.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newker.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p100.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1110.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p112.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p207.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q1023.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q494.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1002.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1003(2).cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1003.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1004.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1006.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1008.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1018.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1020.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1021.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1023.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1030.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1033.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1034.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1037.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1038.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1043(2).cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1043.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1053.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1054.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1067.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1068.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1076.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1086.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1099.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1102.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1103.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1110.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1115.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1119.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1123.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1127.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1128.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1135.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1138.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1143.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1147.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1148.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1149.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/p1155.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/其他/BF.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PATExam/其他/UnionFindSet.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luogu/p2622.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newcoder/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newcoder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newcoder/被3整除的子序列.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operationSystem/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operationSystem/main2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operationSystem/main3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../peopleFlow/my.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../peopleFlow/synopsis.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pleasure/dp1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pleasure/enjoy1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket/src/Model/wordInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket/src/dao/CorpImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket/src/dao/wordsInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第7章/7.3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第7章/PATA1032.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第7章/exe1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/TaskB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/exe1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/exe2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/exe3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/q1095.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/taskA.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/taskD.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/taskE.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../第8章深度遍历/taskF.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LittleMonk.github.io" beforeDir="false" afterPath="$PROJECT_DIR$/../LittleMonk.github.io" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-543399134">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="8395" />
+          <entry key="txt" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="21" />
+          <entry key="Doxygen file" value="5" />
+          <entry key="ObjectiveC" value="8390" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="14" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="4" />
+          <entry key="ObjectiveC" value="14" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/p1110.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+              <folding>
+                <element signature="e#196#215#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/p997.cpp" />
+        <option value="$PROJECT_DIR$/p100.cpp" />
+        <option value="$PROJECT_DIR$/p112.cpp" />
+        <option value="$PROJECT_DIR$/p207.cpp" />
+        <option value="$PROJECT_DIR$/q494.cpp" />
+        <option value="$PROJECT_DIR$/q1023.cpp" />
+        <option value="$PROJECT_DIR$/newker.cpp" />
+        <option value="$PROJECT_DIR$/luoguP2622.cpp" />
+        <option value="$PROJECT_DIR$/1048.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/p1110.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="339" />
+    <option name="y" value="133" />
+    <option name="width" value="1291" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Leetcode">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="Leetcode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="Leetcode">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Leetcode" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a6726e9-5668-4228-9b0b-75a4d2d5b526" name="Default Changelist" comment="" />
+      <created>1551013710665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551013710665</updated>
+      <workItem from="1551013712704" duration="1512000" />
+      <workItem from="1552220527173" duration="597000" />
+      <workItem from="1552553060088" duration="1199000" />
+      <workItem from="1552650853974" duration="262000" />
+      <workItem from="1552651739829" duration="3457000" />
+      <workItem from="1553073729543" duration="7000" />
+      <workItem from="1553259986708" duration="969000" />
+      <workItem from="1554793931111" duration="14000" />
+      <workItem from="1554816445474" duration="9213000" />
+      <workItem from="1554885728265" duration="10715000" />
+      <workItem from="1554941224845" duration="5350000" />
+      <workItem from="1557035642498" duration="3000" />
+      <workItem from="1558256984361" duration="4854000" />
+      <workItem from="1565525853007" duration="462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38614000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="339" y="133" width="1291" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33947158" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32909605" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32909605" />
+      <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.33050847" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/p997.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p112.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p100.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p207.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q494.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luoguP2622.cpp" />
+    <entry file="file://$PROJECT_DIR$/q1023.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newker.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="150" column="7" selection-start-line="150" selection-start-column="7" selection-end-line="150" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1048.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="9" column="19" selection-start-column="2" selection-end-line="43" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="98" selection-start-line="5" selection-start-column="98" selection-end-line="5" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1110.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <element signature="e#196#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
